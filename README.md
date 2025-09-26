@@ -1,1 +1,1 @@
-# chack-buy
+# check-buy
